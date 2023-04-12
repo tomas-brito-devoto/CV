@@ -1,2 +1,2 @@
-# CV
-My digital CV
+# Education
+
