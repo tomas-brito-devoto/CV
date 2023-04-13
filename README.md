@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ### Download CV in PDF
 - [ENG](https://github.com/tomas-brito-devoto/CV/raw/gh-pages/20230410_CV_BritoDevoto-ENG.pdf)
 - [SPA](https://github.com/tomas-brito-devoto/CV/raw/gh-pages/20230410_CV_BritoDevoto-SPA.pdf)
