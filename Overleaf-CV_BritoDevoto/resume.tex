@@ -1,0 +1,116 @@
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{russell}
+
+% Configure page margins with geometry
+\geometry{left=1.2cm, top=0.8cm, right=1.2cm, bottom=0.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% russell Colors: russell-emerald, russell-skyblue, russell-red, russell-pink, russell-orange
+%                 russell-nephritis, russell-concrete, russell-darknight, russell-purple
+\colorlet{russell}{russell-darknight} % Primeras 3 letras de Títulos y direcciones
+% Uncomment if you would like to specify your own color
+% \definecolor{russell}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+ \definecolor{darktext}{HTML}{444444} %414141 Subtítulos y texto en negrita
+ \definecolor{text}{HTML}{222222} %333333 Texto en general
+ \definecolor{graytext}{HTML}{5D5D5D} %5D5D5D Organizaciones/instituciones, fechas y publisher
+ \definecolor{lighttext}{HTML}{777777} %999999 %Address y ¿Position?
+
+% Set false if you don't want to highlight section with russell color
+\setbool{acvSectionColorHighlight}{false}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+\renewcommand{\acvHeaderSocialSepblank}{\quad\quad\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+\photo[circle,edge,left]{./PicCV/CV4.jpg} %CV3/CV4 
+%\position{Software Architect{\enskip\cdotp\enskip}Security Expert}
+\name{Brito Devoto,}{Tomás}
+\address{Buenos Aires, Argentina }
+
+\mobile{+54 9 11 6290-9595}
+%\dateofbirth{Agosto , 1991}
+\email{tomasbritodevoto@gmail.com}
+\homepage{impam.conicet.gov.ar/lidemi/} 
+\github{tomas-brito-devoto}
+\linkedin{tomas-brito-devoto/}
+\orcid{0000-0002-8127-8383}
+\researchgate{tomas-brito-devoto}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \kaggle{kaggle-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra information}
+
+% \quote{``Simplicity is deceptively complicated."}
+
+
+%-------------------------------------------------------------------------------
+ %	BIBLIOGRAPHY
+ %-------------------------------------------------------------------------------
+%\addbibresource{cv-SPA/references.bib}
+\addbibresource{cv-ENG/references.bib}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[R]
+\vspace{-0mm}
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+%  {\today}
+  {}
+  {}
+  {\thepage}
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+%\input{cv-SPA/education.tex}
+%\vspace{-2mm}
+%\input{cv-SPA/skills.tex}
+%\input{cv-SPA/experience.tex}
+%\input{cv-SPA/projects.tex}
+%\input{cv-SPA/achievements.tex}
+%\input{cv-SPA/publications.tex}
+%\input{cv-SPA/languages.tex}
+%\input{cv/interests.tex}
+%\input{cv/summary.tex}
+
+\input{cv-ENG/education.tex}
+\vspace{-2mm}
+\input{cv-ENG/skills.tex}
+\input{cv-ENG/experience.tex}
+\input{cv-ENG/projects.tex}
+\input{cv-ENG/achievements.tex}
+\input{cv-ENG/publications.tex}
+\input{cv-ENG/languages.tex}
+
+\vspace*{\fill}
+%\centering{\textbf{References available upon request.}}
+%-------------------------------------------------------------------------------
+\end{document}
