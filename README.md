@@ -28,6 +28,7 @@ Mycology Research and Development Laboratory (LIDeMi); (IMPAM, CONICET - UBA) - 
 -   Phylogeny of filamentous fungi.
 -   Studies on Antarctic animals' fungal flora.
 -   Development of polymeric micelles capable of storing and sustainably releasing voriconazole in the lung.<br> 
+
 **Technical skills:** PCR, sequencing, bio-informatics, phylogeny, molecular biology techniques, microbiology, data analysis, micro y nano particles formulation.<br>
 **Soft Skills:** Teamwork, communication skills, written and oral results' presentation, project management, organization of the work environment, planning, people training.
 
@@ -36,6 +37,7 @@ Biological Interactions Research Laboratory (LIIB); Universidad Nacional De Quil
 
 -   Study of the native actinorrhizal symbiosis that establishes nitrogen-fixing root nodules between *Frankia spp.*}* and *Discaria trinervis'* roots.
 -   Genetic transformation of roots by *A. rhizogenes*. <br>
+
 **Technical skills:** Molecular biology techniques, microbiology, fluorescence microscopy, data analysis. <br>
 **Soft Skills:** Teamwork, communication skills, written and oral results' presentation.
  
@@ -54,6 +56,7 @@ Instituto De Investigaciones En Microbiología Y Parasitología Médica (IMPAM) 
 
 -   Design and maintenance of the institute's website. 
 -   Data collection using Google Forms and development of the institute's staff database. <br>
+
 **Technical skills:** Google Forms, Google Docs, HTML, WordPress. <br>
 **Soft Skills:** Teamwork, critical thinking, project organization and management.
 
@@ -66,13 +69,11 @@ Newland's Highschool - Bs.As., AR | *Nov 2020*
 -   The objective was to bring students closer to the world of research and inform them of key concepts such as "One World - One Health", Ecosystems and Mycology.
 
 **Aspergilossis - Overview and Diagnosis** <br>
-Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018*
-
+Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
 -   Invited lecturer at a seminar for postgraduate students.
 
 **Antifungals - Mechanisms and Resistances** <br>
-Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018*
-
+Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
 -   Invited lecturer at a seminar for postgraduate students.
 
 
