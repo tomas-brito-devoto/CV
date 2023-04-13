@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Tomás Brito Devotos's CV
 logo: /assets/img/A_fumigatus.png
+layout: /_layouts/defaults.html
 description: 
 show_downloads: true # true / false to indicate whether to provide a download URL
 #google_analytics: [Your Google Analytics tracking ID]
