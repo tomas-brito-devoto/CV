@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Education
 
 **Doctorate in Science and Technology**
