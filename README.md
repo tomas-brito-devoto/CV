@@ -63,7 +63,7 @@ Instituto De Investigaciones En Microbiología Y Parasitología Médica (IMPAM) 
 ## Talks and Conferences
 
 **Antarctica, Fungi and Humans: A one world-one health concept**<br>
-Newland's Highschool - Bs.As., AR | *Nov 2020*
+Newland's Highschool - *Bs.As., AR* | *Nov 2020*
 
 -   Talk for secondary school students organized by Newland's Highschool as part of the awareness week "Taking Care of Me to Take Care of You".
 -   The objective was to bring students closer to the world of research and inform them of key concepts such as "One World - One Health", Ecosystems and Mycology.
