@@ -1,24 +1,35 @@
 **Download CV in PDF** | [ENG](https://github.com/tomas-brito-devoto/CV/raw/gh-pages/20230410_CV_BritoDevoto-ENG.pdf) | [SPA](https://github.com/tomas-brito-devoto/CV/raw/gh-pages/20230410_CV_BritoDevoto-SPA.pdf) | <br>
 
-## Education
+# Education
 
-**Doctorate in Science and Technology** <br> 
+### **Doctorate in Science and Technology** <br> 
 Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Apr 2017 - (exp.) 2023*
 
 -   Mycology - Bioinformatics - Nanotechnology - Molecular Biology.
 -   Azole Resistance Mechanisms in clinical and agro-industrial environment.
 -   Phylogeny - *Aspergillus spp., Exophiala spp., Scedosporium spp.*
 
-**Bachelor of Biotechnology** <br> 
+### **Bachelor of Biotechnology** <br> 
 Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Aug 2010 - Dec 2016*
 
 -   Orientation in Genetic Engineering.
 -   Nitrogen fixing symbiosis.
 -   Actinorrhizal symbiosis - *Frankia spp*.
 
-## Professional Experience
+# Skills
 
-**PhD Student - CONICET** <br>
+-   **Scientific**
+   -    Genetic transformation of microorganisms, Microbiology, Molecular Biology, Data Analysis, Genetic Analysis, Nanotechnology, Bioinformatics, Mycology, Fluorescence microscopy.
+
+-   **Miscellaneous**
+   -    R (tidyverse, ggplot2), \textrm{\large \LaTeX}(Overleaf/R Markdown/Quarto), Microsoft Office/Google docs, Google Apps Script, Git/Github, Bash.
+
+-   **Soft Skills**
+   -    Strategic and analytical thinking, ability to adapt to the environment and change, teamwork, communication and presentation skills, ability to work under pressure with minimal or no supervision, handling of ambiguity and uncertainty.
+
+# Professional Experience
+
+### **PhD Student - CONICET** <br>
 Mycology Research and Development Laboratory (LIDeMi); (IMPAM, CONICET - UBA) - *Buenos Aires, AR* | *Apr 2017 - Current*
 
 -   Molecular identification of fungal cryptospecies.
@@ -32,18 +43,18 @@ Mycology Research and Development Laboratory (LIDeMi); (IMPAM, CONICET - UBA) - 
 **Technical skills:** PCR, sequencing, bio-informatics, phylogeny, molecular biology techniques, microbiology, data analysis, micro y nano particles formulation.<br>
 **Soft Skills:** Teamwork, communication skills, written and oral results' presentation, project management, organization of the work environment, planning, people training.
 
-**ESV scholarship** <br>
+### **ESV scholarship** <br>
 Biological Interactions Research Laboratory (LIIB); Universidad Nacional De Quilmes - *Buenos Aires, AR* | *Sep 2013 - Aug 2015*
 
--   Study of the native actinorrhizal symbiosis that establishes nitrogen-fixing root nodules between *Frankia spp.*}* and *Discaria trinervis'* roots.
+-   Study of the native actinorrhizal symbiosis that establishes nitrogen-fixing root nodules between *Frankia spp.* and *Discaria trinervis'* roots.
 -   Genetic transformation of roots by *A. rhizogenes*. <br>
 
 **Technical skills:** Molecular biology techniques, microbiology, fluorescence microscopy, data analysis. <br>
 **Soft Skills:** Teamwork, communication skills, written and oral results' presentation.
  
-## Projects
+# Projects
 
-**Studies on the diversity of fungal species from clinical samples of animals of the Antarctic fauna: potential impact on human health** <br>
+### **Studies on the diversity of fungal species from clinical samples of animals of the Antarctic fauna: potential impact on human health** <br>
 Dirección Nacional del Antártico (DNA) - Instituto Antártico Argentino (IAA) - *Carlini station, Antártida Argantina* | *Jan 2019 - Mar 2019*
 
 -   The aim was to contribute to the knowledge of the epidemiology of yeast-like and filamentous fungi isolated from different biological samples of Antarctic animals.
@@ -51,7 +62,7 @@ Dirección Nacional del Antártico (DNA) - Instituto Antártico Argentino (IAA) 
 **Technical skills:** PCR, sequencing, bioinformatics, data analysis. <br>
 **Soft Skills:** Teamwork, critical thinking, project organization and management, planning, development of written reports. 
 
-**Implementation and maintenance of the institute's website** <br>
+### **Implementation and maintenance of the institute's website** <br>
 Instituto De Investigaciones En Microbiología Y Parasitología Médica (IMPAM) - *Buenos Aires, AR* | *Jun 2019 - Current*
 
 -   Design and maintenance of the institute's website. 
@@ -60,22 +71,21 @@ Instituto De Investigaciones En Microbiología Y Parasitología Médica (IMPAM) 
 **Technical skills:** Google Forms, Google Docs, HTML, WordPress. <br>
 **Soft Skills:** Teamwork, critical thinking, project organization and management.
 
-## Talks and Conferences
+# Talks and Conferences
 
-**Antarctica, Fungi and Humans: A one world-one health concept**<br>
+### **Antarctica, Fungi and Humans: A one world-one health concept**<br>
 Newland's Highschool - *Bs.As., AR* | *Nov 2020*
 
 -   Talk for secondary school students organized by Newland's Highschool as part of the awareness week "Taking Care of Me to Take Care of You".
 -   The objective was to bring students closer to the world of research and inform them of key concepts such as "One World - One Health", Ecosystems and Mycology.
 
-**Aspergilossis - Overview and Diagnosis** <br>
+### **Aspergilossis - Overview and Diagnosis** <br>
 Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
 -   Invited lecturer at a seminar for postgraduate students.
 
-**Antifungals - Mechanisms and Resistances** <br>
+### **Antifungals - Mechanisms and Resistances** <br>
 Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
 -   Invited lecturer at a seminar for postgraduate students.
-
 
 
 
