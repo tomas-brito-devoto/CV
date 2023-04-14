@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Tomás Brito Devotos's CV
 logo: /assets/img/A_fumigatus.png
-description: Image of *Aspergillus fumigatus* conidiophores and conidia, stained with Lactophenol Cotton Blue. 
+description: Image of <i>Aspergillus fumigatus</i> conidiophores and conidia, stained with Lactophenol Cotton Blue. 
 #google_analytics: [Your Google Analytics tracking ID]
 show_downloads: false # true / false to indicate whether to provide a download URL
 github:
