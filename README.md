@@ -2,14 +2,14 @@
 
 # Education
 
-### **Doctorate in Science and Technology** <br> 
+### **Doctorate in Science and Technology** 
 Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Apr 2017 - (exp.) 2023*
 
 -   Mycology - Bioinformatics - Nanotechnology - Molecular Biology.
 -   Azole Resistance Mechanisms in clinical and agro-industrial environment.
 -   Phylogeny - *Aspergillus spp., Exophiala spp., Scedosporium spp.*
 
-### **Bachelor of Biotechnology** <br> 
+### **Bachelor of Biotechnology** 
 Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Aug 2010 - Dec 2016*
 
 -   Orientation in Genetic Engineering.
@@ -18,18 +18,18 @@ Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Aug 2010 - Dec 2016*
 
 # Skills
 
--   **Scientific**
-   -    Genetic transformation of microorganisms, Microbiology, Molecular Biology, Data Analysis, Genetic Analysis, Nanotechnology, Bioinformatics, Mycology, Fluorescence microscopy.
+- **Scientific**
+   - Genetic transformation of microorganisms, Microbiology, Molecular Biology, Data Analysis, Genetic Analysis, Nanotechnology, Bioinformatics, Mycology, Fluorescence microscopy.
 
--   **Miscellaneous**
-   -    R (tidyverse, ggplot2), \textrm{\large \LaTeX}(Overleaf/R Markdown/Quarto), Microsoft Office/Google docs, Google Apps Script, Git/Github, Bash.
+- **Miscellaneous**
+   - R (tidyverse, ggplot2), \textrm{\large \LaTeX}(Overleaf/R Markdown/Quarto), Microsoft Office/Google docs, Google Apps Script, Git/Github, Bash.
 
--   **Soft Skills**
-   -    Strategic and analytical thinking, ability to adapt to the environment and change, teamwork, communication and presentation skills, ability to work under pressure with minimal or no supervision, handling of ambiguity and uncertainty.
+- **Soft Skills**
+   - Strategic and analytical thinking, ability to adapt to the environment and change, teamwork, communication and presentation skills, ability to work under pressure with minimal or no supervision, handling of ambiguity and uncertainty.
 
 # Professional Experience
 
-### **PhD Student - CONICET** <br>
+### **PhD Student - CONICET**
 Mycology Research and Development Laboratory (LIDeMi); (IMPAM, CONICET - UBA) - *Buenos Aires, AR* | *Apr 2017 - Current*
 
 -   Molecular identification of fungal cryptospecies.
