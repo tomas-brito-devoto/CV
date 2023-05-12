@@ -50,6 +50,8 @@ Biological Interactions Research Laboratory (LIIB); Universidad Nacional De Quil
 **Technical skills:** Molecular biology techniques, microbiology, fluorescence microscopy, data analysis. <br>
 **Soft Skills:** Teamwork, communication skills, written and oral results' presentation.
  
+**Description:** I performed various microbiological tasks including work on sterility, growth and storage of bacterial strains, development of long-term experiments on the nodulation of actinorizal plants framed within my bachelor's thesis, monitoring of nodular organogenesis of roots through the use of genetics markers which produced fluorescence proteins detected with an fluorescent optical microscope, among others tasks.
+ 
 # Projects
 
 **Studies on the diversity of fungal species from clinical samples of animals of the Antarctic fauna: potential impact on human health** <br>
