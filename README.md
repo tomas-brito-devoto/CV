@@ -39,6 +39,9 @@ Mycology Research and Development Laboratory (LIDeMi); (IMPAM, CONICET - UBA) - 
 **Technical skills:** PCR, sequencing, bio-informatics, phylogeny, molecular biology techniques, microbiology, data analysis, micro y nano particles formulation.<br>
 **Soft Skills:** Teamwork, communication skills, written and oral results' presentation, project management, organization of the work environment, planning, people training.
 
+**Description:** During my doctoral thesis I worked carrying out studies and molecular techniques for the identification of fungal cryptospecies, antifungal susceptibility studies based on international standardized guidelines (CLSI and EUCAST), and in the molecular understanding of associated resistance mechanisms. I carried out the assembly and curation of a database of fungal strains from respiratory secretions of patients with cystic fibrosis and isolates obtained from infected seedsthe in the agroindustry. I carried out phylogenetic studies on the strains in the database, as well as a comparison of the local epidemiology with that reported internationally. I participated in a campaign to Antarctica (January to March 2019) to study the local fungal flora, mainly associated with local animals, which is also part of the ceparium. I participated in several international medical mycology conferences where I presented the results of my thesis, which were awarded with the  "Best Basic Research Work" award.
+
+
 **ESV scholarship** <br>
 Biological Interactions Research Laboratory (LIIB); Universidad Nacional De Quilmes - *Buenos Aires, AR* | *Sep 2013 - Aug 2015*
 
