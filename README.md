@@ -1,4 +1,4 @@
-**Download CV in PDF** | [ENG](https://github.com/tomas-brito-devoto/CV/raw/gh-pages/20230410_CV_BritoDevoto-ENG.pdf) | [SPA](https://github.com/tomas-brito-devoto/CV/raw/gh-pages/20230410_CV_BritoDevoto-SPA.pdf) | <br>
+**Download CV in PDF** | [ENG](https://github.com/tomas-brito-devoto/CV/raw/gh-pages/202401_CV_BritoDevoto-ENG.pdf) | [SPA](https://github.com/tomas-brito-devoto/CV/raw/gh-pages/202401_CV_BritoDevoto-SPA.pdf) | <br>
 
 [LinkedIn](https://www.linkedin.com/in/tomas-brito-devoto/) / [GitHub](https://github.com/tomas-brito-devoto/) / [ORCiD](https://orcid.org/0000-0002-8127-8383) / [Research Gate](https://www.researchgate.net/profile/Tomas-Brito-Devoto)
 
@@ -6,14 +6,12 @@
 
 **Doctorate in Science and Technology** <br>
 Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Apr 2017 - Dec 2023*
-
 -   Mycology - Bioinformatics - Nanotechnology - Molecular Biology.
 -   Azole Resistance Mechanisms in clinical and agro-industrial environment.
 -   Phylogeny - *Aspergillus spp., Exophiala spp., Scedosporium spp.*
 
 **Bachelor of Biotechnology**  <br>
 Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Aug 2010 - Dec 2016*
-
 -   Orientation in Genetic Engineering.
 -   Nitrogen fixing symbiosis.
 -   Actinorrhizal symbiosis - *Frankia spp*.
@@ -30,7 +28,7 @@ Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Aug 2010 - Dec 2016*
 Mycology Research and Development Laboratory (LIDeMi); (IMPAM, CONICET - UBA) - *Buenos Aires, AR* | *Apr 2017 - Mar 2023*
 
 -   Molecular identification of fungal cryptospecies.
--   Anti-fungal susceptibility studies based on international standardized guidelines (CLSI \& EUCAST).
+-   Anti-fungal susceptibility studies based on international standardized guidelines (CLSI & EUCAST).
 -   Molecular characterization of azole's resistance mechanisms in *Aspergillus spp*.
 -   Build-up and curation of clinical fungal strains database.
 -   Phylogeny of filamentous fungi.
@@ -70,46 +68,11 @@ Instituto De Investigaciones En Microbiología Y Parasitología Médica (IMPAM) 
 **Technical skills:** Google Forms, Google Docs, HTML, WordPress. <br>
 **Soft Skills:** Teamwork, critical thinking, project organization and management.
 
-# Talks and Conferences
-
-**Antarctica, Fungi and Humans: A one world-one health concept** <br>
-Newland's Highschool - *Bs.As., AR* | *Nov 2020* <br>
-   Talk for secondary school students organized by Newland's Highschool as part of the awareness week "Taking Care of Me to Take Care of You". <br>
-   The objective was to bring students closer to the world of research and inform them of key concepts such as "One World - One Health", Ecosystems and Mycology.
-
-**Aspergilossis - Overview and Diagnosis** <br>
-Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
-   Invited lecturer at a seminar for postgraduate students.
-
-**Antifungals - Mechanisms and Resistances** <br>
-Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
-   Invited lecturer at a seminar for postgraduate students.
-
-# Awards & Distinctions
-
-(2020) **Editor's Pick** | *Journal* <br>
-   Distinction of the Journal Antimicrobial Agents and Chemotherapy to the publication "A Novel Combination of CYP51A Mutations Confers Pan-Azole Resistance in *Aspergillus fumigatus*.
-
-(2019) **Best Research Work - XVI INFOCUS 2018** | *Bogota, Colombia* <br>
-   Awarded at *VI Versión Reconocimiento a La Excelencia Académica e Investigación* of the Instituto Científico Pfizer de Colombia (ICPC).
-
-(2018) **Best Basic Research Work** | *Cali, Colombia* <br>
-   Awarded at the 16th INFOCUS.
-
-(2015) **Iberoamerican Santander Río Scholarship** | *Bs.As., Argentina* <br>
-   Academic merit-based scholarship to assist as an international student to the University of Málaga, Spain. Awarded by Santander Río Bank.
-
-(2014) **Initiation to Research - ESV** | *Bs.As., Argentina* <br>
-   Academic merit-based scholarship awarded by Consejo Interuniversitario Nacional (CIN).
-
-(2013) **Encouragement to Scientific Vocations (ESV)** | *Bs.As., Argentina* <br>
-   Academic merit-based scholarship awarded by Consejo Interuniversitario Nacional (CIN)
-
 # Publications
 
 #### Scientific Articles
 
--Antifungal susceptibility patterns for Aspergillus, Scedosporium, and Exophiala isolates recovered from cystic fibrosis patients against amphotericin B, and three triazoles and their impact after long-term therapies. <br>
+- Antifungal susceptibility patterns for Aspergillus, Scedosporium, and Exophiala isolates recovered from cystic fibrosis patients against amphotericin B, and three triazoles and their impact after long-term therapies. <br>
 **Brito Devoto, T.**, Hermida-Alva, K., Posse, G., Finquelievich, J.L., García-Effrón, G., Cuestas, M.L. <br>
 *Medical mycology 61 (17 Aug 2023). 2023.*
 
@@ -150,6 +113,41 @@ María J. Limeres, María A. Toscanini, **Tomás Brito Devoto**, María F. Ladet
 - Nanoparticle Formulations and Delivery Strategies for Sustained Drug Release in the Lungs <br>
 María L. Cuestas, **Tomás Brito Devoto**, María A. Toscanini, María J. Limeres, Germán A. Islán, Guillermo R. Castro <br>
 *Modeling and Control of Drug Delivery Systems (Jan. 2021) pp. 273–300. Academic Press, 2021*
+
+# Talks and Conferences
+
+**Antarctica, Fungi and Humans: A one world-one health concept** <br>
+Newland's Highschool - *Bs.As., AR* | *Nov 2020* <br>
+   Talk for secondary school students organized by Newland's Highschool as part of the awareness week "Taking Care of Me to Take Care of You". <br>
+   The objective was to bring students closer to the world of research and inform them of key concepts such as "One World - One Health", Ecosystems and Mycology.
+
+**Aspergillosis - Overview and Diagnosis** <br>
+Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
+   Invited lecturer at a seminar for postgraduate students.
+
+**Antifungals - Mechanisms and Resistances** <br>
+Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
+   Invited lecturer at a seminar for postgraduate students.
+
+# Awards & Distinctions
+
+(2020) **Editor's Pick** | *Journal* <br>
+   Distinction of the Journal Antimicrobial Agents and Chemotherapy to the publication "A Novel Combination of CYP51A Mutations Confers Pan-Azole Resistance in *Aspergillus fumigatus*.
+
+(2019) **Best Research Work - XVI INFOCUS 2018** | *Bogota, Colombia* <br>
+   Awarded at *VI Versión Reconocimiento a La Excelencia Académica e Investigación* of the Instituto Científico Pfizer de Colombia (ICPC).
+
+(2018) **Best Basic Research Work** | *Cali, Colombia* <br>
+   Awarded at the 16th INFOCUS.
+
+(2015) **Iberoamerican Santander Río Scholarship** | *Bs.As., Argentina* <br>
+   Academic merit-based scholarship to assist as an international student to the University of Málaga, Spain. Awarded by Santander Río Bank.
+
+(2014) **Initiation to Research - ESV** | *Bs.As., Argentina* <br>
+   Academic merit-based scholarship awarded by Consejo Interuniversitario Nacional (CIN).
+
+(2013) **Encouragement to Scientific Vocations (ESV)** | *Bs.As., Argentina* <br>
+   Academic merit-based scholarship awarded by Consejo Interuniversitario Nacional (CIN)
 
 # Languages
 
