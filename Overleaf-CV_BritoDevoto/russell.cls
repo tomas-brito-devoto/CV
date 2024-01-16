@@ -671,10 +671,10 @@
     \newcolumntype{K}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}%
     \setlength{\extrarowheight}{0pt}%
     \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r K{\textwidth - 3.5cm} R{2.5cm}}%
-}{%
+%}{%
     \end{tabular*}%
   \end{center}%
-}%
+} %
 % Define a line of cv information(honor, award or something else)
 % Usage: \cvhonor{<position>}{<title>}{<location>}{<date>}
 \newcommand*{\cvhonor}[4]{%

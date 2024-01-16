@@ -5,7 +5,7 @@
 # Education
 
 **Doctorate in Science and Technology** <br>
-Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Apr 2017 - (exp.) 2023*
+Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Apr 2017 - Dec 2023*
 
 -   Mycology - Bioinformatics - Nanotechnology - Molecular Biology.
 -   Azole Resistance Mechanisms in clinical and agro-industrial environment.
@@ -27,7 +27,7 @@ Universidad Nacional de Quilmes - *Buenos Aires, AR* | *Aug 2010 - Dec 2016*
 # Professional Experience
 
 **PhD Student - CONICET** <br>
-Mycology Research and Development Laboratory (LIDeMi); (IMPAM, CONICET - UBA) - *Buenos Aires, AR* | *Apr 2017 - Current*
+Mycology Research and Development Laboratory (LIDeMi); (IMPAM, CONICET - UBA) - *Buenos Aires, AR* | *Apr 2017 - Mar 2023*
 
 -   Molecular identification of fungal cryptospecies.
 -   Anti-fungal susceptibility studies based on international standardized guidelines (CLSI \& EUCAST).
@@ -109,12 +109,16 @@ Veterinary school - University of Buenos Aires - *Bs.As., AR* | *Oct 2018* <br>
 
 #### Scientific Articles
 
+-Antifungal susceptibility patterns for Aspergillus, Scedosporium, and Exophiala isolates recovered from cystic fibrosis patients against amphotericin B, and three triazoles and their impact after long-term therapies. <br>
+**Brito Devoto, T.**, Hermida-Alva, K., Posse, G., Finquelievich, J.L., García-Effrón, G., Cuestas, M.L. <br>
+*Medical mycology 61 (17 Aug 2023). 2023.*
+
 - Quantitative determination of voriconazole by thionine reduction and its potential application in a pharmaceutical and clinical setting <br>
 María Florencia Ladetto, Juan Manuel Lázaro‑Martínez, **Tomás Brito Devoto**, Víctor J. Briceño, Guillermo R. Castro, María Luján Cuestas <br>
 *Analytical Methods 15 (9 2023) pp. 1230–1240. Royal Society of Chemistry, 2023*
 
 - Exploring fungal diversity in Antarctic wildlife: isolation and molecular identification of culturable fungi from penguins and pinnipeds <br>
-**T Brito Devoto**, M. A. Toscanini, K Hermida Alava, A. N. Etchecopaz, S. J. Pola, M. M. Martorell, M Ansaldo, J Negrete, L Ruberto, W Mac Cormack, M. L. Cuestas <br>
+**T. Brito Devoto**, M. A. Toscanini, K Hermida Alava, A. N. Etchecopaz, S. J. Pola, M. M. Martorell, M Ansaldo, J Negrete, L Ruberto, W Mac Cormack, M. L. Cuestas <br>
 *New Zealand Veterinary Journal (July 2022) pp. 1–18. Informa UK Limited, 2022*
 
 - Sporotrichosis caused by Sporothrix brasiliensis in Argentina: Case report, molecular identification and in vitro susceptibility pattern to antifungal drugs <br>
@@ -151,6 +155,7 @@ María L. Cuestas, **Tomás Brito Devoto**, María A. Toscanini, María J. Limer
 
 Spanish | Native <br>
 English | Bilingual <br>
+French | Basic <br>
 
 
 
