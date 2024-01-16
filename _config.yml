@@ -5,8 +5,8 @@ description: Image of <i>Aspergillus fumigatus</i> conidiophores and conidia, st
 #google_analytics: [Your Google Analytics tracking ID]
 show_downloads: false # true / false to indicate whether to provide a download URL
 github:
-#  zip_url: https://github.com/tomas-brito-devoto/CV/raw/gh-pages/20230410_CV_BritoDevoto-ENG.pdf
-#  tar_url: https://github.com/tomas-brito-devoto/CV/raw/gh-pages/20230410_CV_BritoDevoto-SPA.pdf
+#  zip_url: https://github.com/tomas-brito-devoto/CV/raw/gh-pages/202401_CV_BritoDevoto-ENG.pdf
+#  tar_url: https://github.com/tomas-brito-devoto/CV/raw/gh-pages/202401_CV_BritoDevoto-SPA.pdf
 #remote_theme: pages-themes/minimal@v0.2.0
 #plugins:
 #- jekyll-remote-theme
